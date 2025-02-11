@@ -76,6 +76,7 @@ pip install -r requirements.txt
 * Deploy an interactive dashboard using Streamlit or Tableau.
 
 🤝 Contributing
+
 Contributions are welcome! If you’d like to improve the pipeline, feel free to:
 1. Fork the repo
 2. Create a feature branch (git checkout -b new-feature)
